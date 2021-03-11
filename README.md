@@ -173,3 +173,7 @@ Here are the commands we need to run to get things setup on the Heroku side:
 ### Heroku deployment - One Click Deploy
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gtalarico/flask-vuejs-template)
+
+## record
+`node-sass` 安装太费劲了，用国内源 + 单独安装，add到package.json中，替换原来的sass版本才好的
+`yarn add node-sass`
